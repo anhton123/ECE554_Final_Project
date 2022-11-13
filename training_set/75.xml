@@ -1,0 +1,38 @@
+<annotation>
+	<folder>raw_pictures</folder>
+	<filename>75.jpg</filename>
+	<path>F:\CmpEBS\2022-2023FourthYear\SemesterOne\ECE 554\raw_pictures\75.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>payload1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>901</xmin>
+			<ymin>367</ymin>
+			<xmax>2014</xmax>
+			<ymax>1622</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>payload1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2201</xmin>
+			<ymin>1538</ymin>
+			<xmax>2927</xmax>
+			<ymax>2257</ymax>
+		</bndbox>
+	</object>
+</annotation>
