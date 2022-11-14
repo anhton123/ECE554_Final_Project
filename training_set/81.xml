@@ -1,0 +1,38 @@
+<annotation>
+	<folder>New Data</folder>
+	<filename>81.jpg</filename>
+	<path>F:\CmpEBS\2022-2023FourthYear\SemesterOne\ECE 554\New Data\81.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>payload3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>415</xmin>
+			<ymin>289</ymin>
+			<xmax>549</xmax>
+			<ymax>446</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>payload1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>276</xmin>
+			<ymin>256</ymin>
+			<xmax>406</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>
